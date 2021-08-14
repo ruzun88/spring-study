@@ -1,4 +1,4 @@
-package hello.core.lifecycle;
+package hello.core.scope;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
