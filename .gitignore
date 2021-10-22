@@ -47,3 +47,7 @@ out/
 *.rar
 *.jar
 *.jar
+hello-spring/gradlew
+*.bat
+*.jar
+*.properties
